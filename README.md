@@ -1,14 +1,5 @@
 <h1 align="center">Olá, 👋, eu sou Victor VLBS</h1>
-<h3 align="center">Um desenvolvedor apaixonado do Brasil. 🏁</h3>
-
-- 🌱 Atualmente estudando **PHP, C#, Javascript, e Python**
-
 - 👨‍💻 Meus projetos estão aqui [https://github.com/victorlbs](https://github.com/victorlbs)
-
-- 💬 Me pergunte sobre **PHP, MySQL, XSS**
-
-- 📫 Me encontre em **vitrond@hotmail.com**
-
 - ⚡ Since **Desde 2016**
 
 <h3 align="left">Connect with me:</h3>
