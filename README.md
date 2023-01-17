@@ -1,5 +1,5 @@
 <h1 align="center">Olá, 👋, eu sou Victor VLBS</h1>
-- 👨‍💻 Meus projetos estão aqui [https://github.com/victorlbs](https://github.com/victorlbs)
+
 - ⚡ Since **Desde 2016**
 
 <h3 align="left">Connect with me:</h3>
